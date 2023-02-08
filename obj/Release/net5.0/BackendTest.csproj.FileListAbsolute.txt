@@ -1,0 +1,16 @@
+C:\Users\91860\source\repos\BackendTest\BackendTest\bin\Release\net5.0\BackendTest.exe
+C:\Users\91860\source\repos\BackendTest\BackendTest\bin\Release\net5.0\BackendTest.deps.json
+C:\Users\91860\source\repos\BackendTest\BackendTest\bin\Release\net5.0\BackendTest.runtimeconfig.json
+C:\Users\91860\source\repos\BackendTest\BackendTest\bin\Release\net5.0\BackendTest.runtimeconfig.dev.json
+C:\Users\91860\source\repos\BackendTest\BackendTest\bin\Release\net5.0\BackendTest.dll
+C:\Users\91860\source\repos\BackendTest\BackendTest\bin\Release\net5.0\ref\BackendTest.dll
+C:\Users\91860\source\repos\BackendTest\BackendTest\bin\Release\net5.0\BackendTest.pdb
+C:\Users\91860\source\repos\BackendTest\BackendTest\obj\Release\net5.0\BackendTest.csproj.AssemblyReference.cache
+C:\Users\91860\source\repos\BackendTest\BackendTest\obj\Release\net5.0\BackendTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91860\source\repos\BackendTest\BackendTest\obj\Release\net5.0\BackendTest.AssemblyInfoInputs.cache
+C:\Users\91860\source\repos\BackendTest\BackendTest\obj\Release\net5.0\BackendTest.AssemblyInfo.cs
+C:\Users\91860\source\repos\BackendTest\BackendTest\obj\Release\net5.0\BackendTest.csproj.CoreCompileInputs.cache
+C:\Users\91860\source\repos\BackendTest\BackendTest\obj\Release\net5.0\BackendTest.dll
+C:\Users\91860\source\repos\BackendTest\BackendTest\obj\Release\net5.0\ref\BackendTest.dll
+C:\Users\91860\source\repos\BackendTest\BackendTest\obj\Release\net5.0\BackendTest.pdb
+C:\Users\91860\source\repos\BackendTest\BackendTest\obj\Release\net5.0\BackendTest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "BackendTest": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "jsWebView2Debugging": true
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
